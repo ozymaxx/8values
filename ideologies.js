@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "Aşırı Sağ",
+        "name": "Tutucu",
         "stats": {
             "econ": 40,
             "dipl": 40,
