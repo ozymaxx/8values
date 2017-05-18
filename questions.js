@@ -531,7 +531,7 @@ questions = [
         }
     },
     {
-        "question": "Kürtaj, bir çok durumda ya da tüm durumlarda yasaklanmalıdır.".
+        "question": "Kürtaj, bir çok durumda ya da tüm durumlarda yasaklanmalıdır.",
         "effect": {
             "econ": 0,
             "dipl": 0,
